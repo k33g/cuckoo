@@ -14,3 +14,5 @@ let content=`<a href="/k33g/cuckoo/help" class="js-selected-navigation-item repo
 </a>`;
 
 $('nav').first().append(content)
+
+console.log("Hello ... append something")
